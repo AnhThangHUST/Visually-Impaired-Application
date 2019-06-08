@@ -30,8 +30,8 @@ Input | Output
 <br />
 
 
-* **Architecture**
+* **Architecture and Algorithm Diagram**
 
-Edge Detection Module | Instruction Module 
-|:-------------------------:|:-------------------------:|
-<img src="./Result/EdgeDetectionModule.jpg" width="100" height="600" /> | <img src="./Result/InstructionModel.jpg" width="400" height="600" />
+System Architecture| Edge Detection Module | Instruction Module 
+|:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="./Result/BlindApplication.jpg" width="500" height="200" /> |<img src="./Result/EdgeDetectionModule.jpg" width="100" height="600" /> | <img src="./Result/InstructionModel.jpg" width="400" height="600" />
