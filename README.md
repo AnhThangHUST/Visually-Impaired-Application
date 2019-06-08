@@ -1,11 +1,14 @@
 # Prepared Package
 ----
-Install opencv4
-Install nlopt
+* Install opencv4
+* Install nlopt
+<br />
 
 # Build excutable file
 ----
 make
+<br />
+
 
 # Result
 ----
@@ -15,9 +18,17 @@ Input | Output
 |:-------------------------:|:-------------------------:|
 <img src="./Result/DewarpInput.jpg" width="300" height="300" /> | <img src="./Result/DewarpOutput.png" width="300" height="300" />
 
+<br />
+<br />
+
+
 * **Edges Detection Result**
 
 <img src="./Result/EdgesResult2.png" width="300" height="300" />  <img src="./Result/EdgesResult1.png" width="300" height="300" />
+
+<br />
+<br />
+
 
 * **Architecture**
 
