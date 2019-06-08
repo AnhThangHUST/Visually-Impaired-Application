@@ -21,7 +21,6 @@ Input | Output
 
 * **Architecture**
 
+Edge Detection Module | Instruction Module 
 |:-------------------------:|:-------------------------:|
-|<img src="./Result/EdgeDetectionModule.jpg" width="300" height="300" /> | <img src="./Result/InstructionModel.jpg" width="300" height="300" />|
-|Edge Detection Module | Instruction Module |
-
+<img src="./Result/EdgeDetectionModule.jpg" width="100" height="600" /> | <img src="./Result/InstructionModel.jpg" width="400" height="600" />
